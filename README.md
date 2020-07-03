@@ -1,6 +1,6 @@
-# profile-card
+# flutter-profile-card
 
-Profile Card built using Flutter
+A Profile Card built using Flutter
 
 ## Getting Started
 
