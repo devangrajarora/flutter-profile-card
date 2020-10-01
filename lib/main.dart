@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
                   ),
                   Container(
                     child: Text(
-                      'FLUTTER DEVELOPER',
+                      'FLUTTER DEVELOPER/CUTIE', //cause you cute Devang
                       style: TextStyle(
                         color: Colors.white,
                         fontFamily: 'SourceSansPro',
